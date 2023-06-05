@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-shopping-cart-prod/static/css/main.cf19a65a.css",
-    "main.js": "/react-shopping-cart-prod/static/js/main.a8304a65.js",
+    "main.js": "/react-shopping-cart-prod/static/js/main.7d09967a.js",
     "static/media/baemin-alert-blank.svg": "/react-shopping-cart-prod/static/media/baemin-alert-blank.ac25c233f2583214e59d09caea7c40d2.svg",
     "static/media/logo.svg": "/react-shopping-cart-prod/static/media/logo.8db26b909db37e35df739db44a0d6a6b.svg",
     "static/media/mini-shop-icon.svg": "/react-shopping-cart-prod/static/media/mini-shop-icon.9661260044cac00e9cea67d6051d64c8.svg",
@@ -10,10 +10,10 @@
     "index.html": "/react-shopping-cart-prod/index.html",
     "static/media/checked.svg": "/react-shopping-cart-prod/static/media/checked.2e387d15d561e3b534f3.svg",
     "main.cf19a65a.css.map": "/react-shopping-cart-prod/static/css/main.cf19a65a.css.map",
-    "main.a8304a65.js.map": "/react-shopping-cart-prod/static/js/main.a8304a65.js.map"
+    "main.7d09967a.js.map": "/react-shopping-cart-prod/static/js/main.7d09967a.js.map"
   },
   "entrypoints": [
     "static/css/main.cf19a65a.css",
-    "static/js/main.a8304a65.js"
+    "static/js/main.7d09967a.js"
   ]
 }
